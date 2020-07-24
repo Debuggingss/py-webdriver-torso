@@ -1,0 +1,11 @@
+{
+  "WIDTH": 640,
+  "HEIGHT": 360,
+  "MAX_WIDTH": 640,
+  "MAX_HEIGHT": 360,
+  "MIN_WIDTH": 0,
+  "MIN_HEIGHT": 0,
+  "SLIDES": 10,
+  "VIDEOS": 10,
+  "SOUND_QUALITY": 14000.0
+}

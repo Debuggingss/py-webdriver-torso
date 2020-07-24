@@ -1,0 +1,1 @@
+The sounds will be here while generating the videos. The file won't be deleted but the sound files change after each video generated.
