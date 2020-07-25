@@ -34,4 +34,7 @@ Optimal (default) configuration:
 ```
 Make sure you have all the folders required! (SOUND, IMG, OUTPUT, FONT)
 
+Best font: https://fontzone.net/font-download/courier-new-bold
+To change the font download this or a different font, go into the FONT folder and replace sys.ttf with your font. Make sure you rename it to sys.ttf
+
 WARNING: While testing the lowest sound quality possible was 14,000 for me. The higher the sound quality is the longer it takes to render the video(s). It does not change 
