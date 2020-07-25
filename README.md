@@ -32,4 +32,6 @@ Optimal (default) configuration:
   "SOUND_QUALITY": 14000.0
 }
 ```
+Make sure you have all the folders required! (SOUND, IMG, OUTPUT, FONT)
+
 WARNING: While testing the lowest sound quality possible was 14,000 for me. The higher the sound quality is the longer it takes to render the video(s). It does not change 
